@@ -1,9 +1,7 @@
-
+import {Header} from './index'
 import './styles/App.css'
 
-function App() {
 
-}
-
-
-export default App
+export default () => (
+    <Header />
+)
