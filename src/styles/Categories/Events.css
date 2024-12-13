@@ -1,0 +1,5 @@
+.events-container div {
+    width: 10rem;
+    background-image: url(events/1.webp);
+    height: 10rem;
+}

@@ -1,0 +1,22 @@
+.items-container {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+
+    gap: 1rem;
+    row-gap: 0.5rem;
+    font-size: 16px;
+}
+
+.items-container img {
+    width: 20px;
+}
+
+.items-container div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+} 
+
