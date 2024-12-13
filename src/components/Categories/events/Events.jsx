@@ -6,8 +6,8 @@ export default () => (
     <div className="events-container">
         {events.map((event, index) => (
             <div
-                style={{ backgroundImage: `url(events/1.webp)` }}
                 key={`event-${index}`}
+                style={{backgroundImage : `events/${index+1}.webp`}}
             >
                 {event}
             </div>
