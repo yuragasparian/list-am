@@ -1,4 +1,4 @@
 import Logo from "./logo/Logo";
-import Categories from "./categories/Categories";
+import CategoriesBtn from "./categoriesBtn/CategoriesBtn";
 
-export {Logo, Categories}
+export {Logo, CategoriesBtn}
