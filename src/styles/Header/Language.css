@@ -1,0 +1,7 @@
+#select-lang {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 1.75rem;
+    right: 2rem;
+}

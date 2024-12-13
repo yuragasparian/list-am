@@ -1,4 +1,4 @@
-import "./Logo.css"
+import "../../../styles/Header/Logo.css"
 
 export default () => (
     <div id="logo">

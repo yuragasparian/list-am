@@ -1,0 +1,7 @@
+#logo img {
+    width: 6rem;
+}
+#logo {
+    display: flex;
+    align-items: center;
+}
