@@ -1,0 +1,21 @@
+.business-pages-title h1 {
+    display: inline;
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+.logo-image {
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(220, 220, 220);
+    border-radius: 12px;
+}
+
+.logos-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
