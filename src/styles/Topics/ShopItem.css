@@ -1,0 +1,13 @@
+.shop-item {
+    width: 175px;
+    padding-bottom: 2rem;
+}
+.shop-item img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+    height: 165px;
+}
+.shop-item h4, .shop-item p {
+    padding-top: 1rem;
+}
